@@ -5,7 +5,11 @@
 ``` javascript
 var myVar = "Hey am shadil!";
 ```
+- [ ] Drink Coffee
+- [ ] Learn Markdown
+- [ ] Make a pull request
 
 ##### Commit message : Learned Markdown basics
+
 
 
